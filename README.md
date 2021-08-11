@@ -1,13 +1,8 @@
 # kata-python
 
 ## Setup
-Installing depends:
 
-```pip install -r requirements.txt```
-
-Running the tests:
-
-```pytest```
+Simply run ```./install/sh```.
 
 ## Problem
 ```
